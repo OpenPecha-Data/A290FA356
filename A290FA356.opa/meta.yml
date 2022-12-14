@@ -1,0 +1,20 @@
+id: A290FA356
+title: Toh_164-The_Questions_of_Ratnacandra-v2
+type: translation
+pechas:
+- I521F1884
+- I24365045
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-059-007
+  eft-text-version: 1.2.5 2020
+  title: Toh_164-The_Questions_of_Ratnacandra-v2
+alignment_to_base:
+  I521F1884/4D73: 23CF
+  I24365045/2C4A: 23CF
